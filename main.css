@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,800');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+html{
+  font-family: 'Nunito Sans', sans-serif;
+  background-color:#FEDB07;
+}
+#banner{
+  width: 80%;
+  
+}
+#pdf{
+  width: 80%;
+  height: 100%;
+  border-radius: 3vh;
+  min-width: 300px;
+}
+
+#button{
+  background-color: #FEDB07;
+  color: black;
+  padding: 13px 15vh;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius : 1vh;
+  border: 2px solid black;
+  font-size: 3vh;
+}
+
+#button:hover{
+  color: #FEDB07;
+  background-color: black;
+}
+
+.content{
+  width: 60%;
+  margin-top: 3vh;
+}
+
+.content h1{
+  align-content: center;
+  margin-left: 5vh;
+  font-family: 'Pacifico', cursive;
+  font-size: 8vh;
+}
+.content h3{
+  font-weight: 100;
+  font-size: 7vh;
+}
+h3 i{
+  color: black;
+}
+
+.content a{
+   margin-left: 5vh;
+}
+.wrap{
+  margin: 5vh;
+  border-radius: 3vh;
+}
+
+.content h2{
+  font-size: 5vh;
+  font-family: 'Pacifico', cursive;
+  margin-left: 5vh;
+}
+
+#aboutme{
+  font-size: 3vh;
+  margin-left: 5vh;
+  font-style: italic;
+}
+
+#profile{
+  width: 30%;
+  border-radius: 50%;
+}
+
+#schedule{
+  font-size: 4vh;
+}
+
+#schedule a{
+  color: darkblue;
+}
+
+
+
+
+
