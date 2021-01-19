@@ -7,15 +7,12 @@ html{
 }
 #banner{
   width: 80%;
-  
+  background-color: white;
 }
-#pdf{
-  width: 80%;
-  height: 100%;
+.white{
+  background-color: white;
   border-radius: 3vh;
-  min-width: 300px;
 }
-
 #button{
   background-color: #FEDB07;
   color: black;
@@ -73,7 +70,7 @@ h3 i{
 }
 
 #profile{
-  width: 30%;
+  width: 30vh;
   border-radius: 50%;
 }
 
